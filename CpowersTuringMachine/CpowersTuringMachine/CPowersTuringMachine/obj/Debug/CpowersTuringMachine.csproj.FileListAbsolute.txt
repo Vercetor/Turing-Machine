@@ -1,0 +1,19 @@
+D:\CODING\Class Programs\CSharp\Alhachamy_TuringMachine\Alhachamy_TuringMachine\bin\Debug\Alhachamy_TuringMachine.exe.config
+D:\CODING\Class Programs\CSharp\Alhachamy_TuringMachine\Alhachamy_TuringMachine\bin\Debug\Alhachamy_TuringMachine.exe
+D:\CODING\Class Programs\CSharp\Alhachamy_TuringMachine\Alhachamy_TuringMachine\bin\Debug\Alhachamy_TuringMachine.pdb
+D:\CODING\Class Programs\CSharp\Alhachamy_TuringMachine\Alhachamy_TuringMachine\obj\Debug\Alhachamy_TuringMachine.csprojResolveAssemblyReference.cache
+D:\CODING\Class Programs\CSharp\Alhachamy_TuringMachine\Alhachamy_TuringMachine\obj\Debug\Alhachamy_TuringMachine.MainForm.resources
+D:\CODING\Class Programs\CSharp\Alhachamy_TuringMachine\Alhachamy_TuringMachine\obj\Debug\Alhachamy_TuringMachine.Properties.Resources.resources
+D:\CODING\Class Programs\CSharp\Alhachamy_TuringMachine\Alhachamy_TuringMachine\obj\Debug\Alhachamy_TuringMachine.csproj.GenerateResource.Cache
+D:\CODING\Class Programs\CSharp\Alhachamy_TuringMachine\Alhachamy_TuringMachine\obj\Debug\Alhachamy_TuringMachine.exe
+D:\CODING\Class Programs\CSharp\Alhachamy_TuringMachine\Alhachamy_TuringMachine\obj\Debug\Alhachamy_TuringMachine.pdb
+C:\Users\colin\Desktop\CpowersTuringMachine\CpowersTuringMachine\CPowersTuringMachine\obj\Debug\CPowersTuringMachine.csprojResolveAssemblyReference.cache
+C:\Users\colin\Desktop\CpowersTuringMachine\CpowersTuringMachine\CPowersTuringMachine\obj\Debug\CPowersTuringMachine.MainForm.resources
+C:\Users\colin\Desktop\CpowersTuringMachine\CpowersTuringMachine\CPowersTuringMachine\obj\Debug\CPowersTuringMachine.csproj.GenerateResource.Cache
+C:\Users\colin\Desktop\CpowersTuringMachine\CpowersTuringMachine\CPowersTuringMachine\obj\Debug\CPowersTuringMachine.csproj.CoreCompileInputs.cache
+C:\Users\colin\Desktop\CpowersTuringMachine\CpowersTuringMachine\CPowersTuringMachine\bin\Debug\CPowersTuringMachine.exe.config
+C:\Users\colin\Desktop\CpowersTuringMachine\CpowersTuringMachine\CPowersTuringMachine\bin\Debug\CPowersTuringMachine.exe
+C:\Users\colin\Desktop\CpowersTuringMachine\CpowersTuringMachine\CPowersTuringMachine\bin\Debug\CPowersTuringMachine.pdb
+C:\Users\colin\Desktop\CpowersTuringMachine\CpowersTuringMachine\CPowersTuringMachine\obj\Debug\CPowersTuringMachine.Properties.Resources.resources
+C:\Users\colin\Desktop\CpowersTuringMachine\CpowersTuringMachine\CPowersTuringMachine\obj\Debug\CPowersTuringMachine.exe
+C:\Users\colin\Desktop\CpowersTuringMachine\CpowersTuringMachine\CPowersTuringMachine\obj\Debug\CPowersTuringMachine.pdb
